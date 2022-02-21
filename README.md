@@ -1,2 +1,2 @@
-# Repostório do desafio de projeto sobre Git/Github :smile::smile::smile:
-Desafio de proojeto sobre Git/Github
+# Desafio de projeto sobre Git/Github da DIO :smile::smile::smile:
+Repositório criado para o desafio de projeto.
